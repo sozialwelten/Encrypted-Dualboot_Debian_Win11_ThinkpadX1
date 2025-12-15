@@ -3,14 +3,15 @@
 
 #### System Details
 
-| Komponente | Details                              |
-| :--- |:-------------------------------------|
-| **Hardware** | ThinkPad X1 Yoga Gen 8               |
-| **Windows** | Windows 11 (mit integrierter Lizenz) |
-| **Linux** | Debian 12                            |
+| Komponente                  | Details                              |
+|:----------------------------|:-------------------------------------|
+| **Hardware**                | ThinkPad X1 Yoga Gen 8               |
+| **Festplatte**              | 512 GB SSD (einzelne Platte)         |
+| **Windows**                 | Windows 11 (mit integrierter Lizenz) |
+| **Linux**                   | Debian 12                            |
 | **Windows-Verschlüsselung** | VeraCrypt System Encryption          |
-| **Linux-Verschlüsselung** | LUKS/LVM                             |
-| **Bootloader** | GRUB                                 |
+| **Linux-Verschlüsselung**   | LUKS/LVM                             |
+| **Bootloader**              | GRUB                                 |
 
 ---
 
